@@ -68,7 +68,7 @@ _Note: The above above crontab entry reboots all Amazon WorkSpaces at 3 AM every
 [15:40:44] ┌────────────────────── INFO ──────────────────────┐ workspaces.py:90
            │ Getting Workspcaes                               │
            └──────────────────────────────────────────────────┘
-           [                                                                                           workspaces.py:94
+           [                                                    workspaces.py:94
                {
                    'WorkspaceId': 'ws-w5nx716j6',
                    'DirectoryId': 'd-9067078b83',
