@@ -1,0 +1,8 @@
+;config.ini
+;copy this file to config.ini and modify variables
+
+; aws api key
+[aws]
+region = us-east-1
+access_key_id = ABCDEFGHIJ0123456789
+secret_access_key = ABCDEFGhijklmnopqrstuvWXYZ0123456789+aZ1

@@ -1,0 +1,4 @@
+docopt
+rich
+boto3
+configparser
